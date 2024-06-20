@@ -1,67 +1,124 @@
-<h2 align="left">Hi 👋! My name is AidenOXis and I'm a Data Science Enthusiast, from [Your Location]</h2>
+<!-- index.html -->
 
-- 👀 I’m interested in Data Science, Video Games, and 3D Rendering
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate with those who are interested in my ideas
-- 📫 How to reach me: on Telegram
-- 😄 Pronouns: he/him
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AidenOXis - Data Science Enthusiast</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h2>Hi 👋! My name is AidenOXis and I'm a Data Science Enthusiast, from [Your Location]</h2>
+  </header>
 
-###
+  <section>
+    <p>👀 I’m interested in Data Science, Video Games, and 3D Rendering</p>
+    <p>🌱 I’m currently learning Java and Python</p>
+    <p>💞️ I’m looking to collaborate with those who are interested in my ideas</p>
+    <p>📫 How to reach me: on Telegram</p>
+    <p>😄 Pronouns: he/him</p>
+  </section>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AidenOXis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidenOXis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+  <section>
+    <h2>Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=AidenOXis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidenOXis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Languages graph" />
+  </section>
 
-###
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" /></li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript logo" /></li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" /></li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" /></li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" /></li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" /></li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# logo" /></li>
+    </ul>
+  </section>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/1c/64/e4/1c64e475bd87d552e88c9fbb4ff325ac.gif" alt="3D Rendering Animation" />
+  <section>
+    <h2>Links</h2>
+    <ul>
+      <li><a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="YouTube logo" /></a></li>
+      <li><a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram logo" /></a></li>
+      <li><a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="Twitch logo" /></a></li>
+      <li><a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord logo" /></a></li>
+      <li><a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail logo" /></a></li>
+           <li><a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn logo" /></a></li>
+    </ul>
+  </section>
 
-###
+  <footer>
+    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  </footer>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
-</div>
+</body>
+</html>
 
-###
+<!-- styles.css -->
 
-<div align="left">
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
-  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" /></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
-</div>
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
 
-###
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
 
-<br clear="both">
+section {
+  margin-bottom: 20px;
+}
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+a:hover {
+  color: #23527c;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px;
+}
+
+/* Add more styles as needed */
+
+<!-- workflow.yml -->
+
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -77,11 +134,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: deploy to GitHub Pages
+        uses: actions/checkout@v2
+        uses: actions/setup-node@v2
+        run: |
+          npm install
+          npm run build
+          npm run deploy
