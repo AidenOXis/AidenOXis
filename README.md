@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">I'm a Student Engineer from Italy</h3>
+<h3 align="center">I'm a Engineering Student from Italy</h3>
 <img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/d65e63540ec731da927a81dac8a94e0b/tumblr_p93ekzeXt11r3l185o2_400.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenoxis&label=Profile%20views&color=0e75b6&style=flat" alt="aidenoxis" /> </p>
