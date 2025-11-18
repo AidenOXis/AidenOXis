@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Aiden</h1>
 <h3 align="center">I'm a Engineering Student from Italy</h3>
-<img align="right" alt="Coding" width="500" src="https://www.bing.com/images/search?view=detailV2&ccid=aq6ibjSM&id=DF2D7C4969ADD1476245C5D4282BE84A2832882B&thid=OIP.aq6ibjSMBZcd9pG1oYHANwHaDk&mediaurl=https%3a%2f%2f24.media.tumblr.com%2f5ecb08bec26234f1b1c5ea2b233a583f%2ftumblr_mh6fe2rw9l1qix3h3o1_500.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6aaea26e348c05971df691b5a181c037%3frik%3dK4gyKEroKyjUxQ%26pid%3dImgRaw%26r%3d0&exph=241&expw=500&q=2001+odisea+nello+spazio.+gif&FORM=IRPRST&ck=42AF34F84759E7332F37DCCA9D1C1169&selectedIndex=0&itb=0">
+<img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/d65e63540ec731da927a81dac8a94e0b/tumblr_p93ekzeXt11r3l185o2_400.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenoxis&label=Profile%20views&color=0e75b6&style=flat" alt="aidenoxis" /> </p>
 
