@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Aiden</h1>
 <h3 align="center">I'm a Engineering Student from Italy</h3>
-<img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/d65e63540ec731da927a81dac8a94e0b/tumblr_p93ekzeXt11r3l185o2_400.gif">
+<img align="right" alt="Coding" width="500" src="[https://64.media.tumblr.com/d65e63540ec731da927a81dac8a94e0b/tumblr_p93ekzeXt11r3l185o2_400.gif](https://www.bing.com/images/search?view=detailV2&ccid=%2fBjM6Y50&id=F25BD48DE600472453035B7819364994E53F0137&thid=OIP._BjM6Y50DBt5oG9OjSnkZAHaGL&mediaurl=https%3a%2f%2fwww.multiplexalbenga.it%2fmedia%2f2100x1250%2fcontent%2f2385%2fLocandina_2001_ODISSEA_NELLO_SPAZIO_70mm.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fc18cce98e740c1b79a06f4e8d29e464%3frik%3dNwE%252f5ZRJNhl4Ww%26pid%3dImgRaw%26r%3d0&exph=1250&expw=1500&q=2001+odisea+nello+spazio.+gif&FORM=IRPRST&ck=C872931FAA9CA7F8597071CD68E1210B&selectedIndex=5&itb=0).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenoxis&label=Profile%20views&color=0e75b6&style=flat" alt="aidenoxis" /> </p>
 
